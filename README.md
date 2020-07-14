@@ -5,7 +5,7 @@
 
   3. 添加
 
-     ![image](./md_image/add.bmp)
+     ![image](https://github.com/zhangbo0018/repo1/blob/master/md_image/add.bmp)
 
   4. 删除
 
